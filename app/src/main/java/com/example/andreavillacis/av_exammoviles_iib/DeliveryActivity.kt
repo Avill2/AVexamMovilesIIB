@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.support.v7.widget.DefaultItemAnimator
 import android.support.v7.widget.LinearLayoutManager
 import com.example.andreavillacis.av_exammoviles_iib.EntidadesParcelable.OrdenCompra
+import com.example.andreavillacis.av_exammoviles_iib.R
 import com.example.andreavillacis.av_exammoviles_iib.database.DatabaseOrdenCompra
 import kotlinx.android.synthetic.main.activity_delivery.*
 

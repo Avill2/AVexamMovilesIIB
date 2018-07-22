@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.support.v4.app.ActivityCompat
 import android.support.v4.content.ContextCompat
 import android.util.Log
+import com.example.andreavillacis.av_exammoviles_iib.R
 import com.google.android.gms.maps.*
 
 import com.google.android.gms.maps.model.CameraPosition

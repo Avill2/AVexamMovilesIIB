@@ -7,6 +7,7 @@ import com.tapadoo.alerter.Alerter
 import kotlinx.android.synthetic.main.activity_datos_comprador.*
 import android.content.Intent
 import com.example.andreavillacis.av_exammoviles_iib.EntidadesParcelable.OrdenCompra
+import com.example.andreavillacis.av_exammoviles_iib.R
 import com.example.andreavillacis.av_exammoviles_iib.database.DatabaseOrdenCompra
 
 

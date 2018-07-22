@@ -7,6 +7,7 @@ import android.widget.Button
 import android.widget.TextView
 import com.example.andreavillacis.av_exammoviles_iib.Detalle.DetalleOrdenActivity
 import com.example.andreavillacis.av_exammoviles_iib.EntidadesParcelable.OrdenCompra
+import com.example.andreavillacis.av_exammoviles_iib.R
 
 class OrdenesPendientesAdaptador(private val ordenesList: List<OrdenCompra>) :  RecyclerView.Adapter<OrdenesPendientesAdaptador.MyViewHolder>(){
 

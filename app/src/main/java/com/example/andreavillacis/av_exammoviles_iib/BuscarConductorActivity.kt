@@ -8,6 +8,7 @@ import android.view.View
 import android.widget.Toast
 import com.example.andreavillacis.av_exammoviles_iib.Conductor.ConductorClienteAdapter
 import com.example.andreavillacis.av_exammoviles_iib.EntidadesParcelable.Conductor
+import com.example.andreavillacis.av_exammoviles_iib.R
 import com.example.andreavillacis.av_exammoviles_iib.database.DatabaseConductor
 import kotlinx.android.synthetic.main.activity_buscar_conductor.*
 

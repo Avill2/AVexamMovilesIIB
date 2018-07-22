@@ -6,6 +6,10 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import com.example.andreavillacis.av_exammoviles_iib.EntidadesParcelable.Usuario
+import com.example.andreavillacis.av_exammoviles_iib.database.DatabaseUsuario
+import com.example.daro.carritocompras.RegistrarPersonajes
+import com.onesignal.OneSignal
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
